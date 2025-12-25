@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desenvolvedor em formação | Foco em JavaScript, C# e Web
 --------------------------------------------------------
 
-Atualmente sou estagiário na área de desenvolvimento, cursando Análise e Desenvolvimento de Sistemas. Tenho focado meus estudos em JavaScript e C#, explorando também conceitos de APIs, front-end e banco de dados.
+Atualmente sou estagiário na área de desenvolvimento, cursando Análise e Desenvolvimento de Sistemas. Tenho focado meus estudos em JavaScript, explorando também conceitos de APIs, front-end e banco de dados.
 
 * 🌍  I'm based in Feira de Santana
 * ✉️  You can contact me at [bielgomes0072@gmail.com](mailto:bielgomes0072@gmail.com)
