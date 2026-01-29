@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gabriel Santos
 =======================================================================================================================================
 
-Desenvolvedor em formação | Foco em JavaScript, C# e Web
+ Front-end Developer | React | JavaScript | APIs | Git
 --------------------------------------------------------
 
 Atualmente sou estagiário na área de desenvolvimento, cursando Análise e Desenvolvimento de Sistemas. Tenho focado meus estudos em JavaScript, explorando também conceitos de APIs, front-end e banco de dados.
