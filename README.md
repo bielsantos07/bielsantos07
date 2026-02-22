@@ -36,7 +36,7 @@ Front-end Developer | React & JavaScript
 ### Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriel-gomes" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-gomes-4aa54134b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>
 </p>
