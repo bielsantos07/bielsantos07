@@ -1,35 +1,46 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gabriel Santos
-=======================================================================================================================================
+<h1 align="left">Hi 👋 Meu nome é Gabriel Santos</h1>
+<h3 align="left">Desenvolvedor Front-end | React, Next.js, React Native & Tauri</h3>
 
-Front-end Developer | React & JavaScript
---------------------------------------------------------------------------
+---
 
-* 🌍 I'm based in Feira de Santana - BA, Brazil  
-* ✉️ You can contact me at [bielgomes0072@gmail.com](mailto:bielgomes0072@gmail.com)
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFAN.
+- 💻 Atuando como Estagiário de Desenvolvimento, com experiência prática em construir aplicações do zero (Web, Mobile e Desktop) e estruturar processos de deploy (CI/CD).
+- 🚀 Foco na criação de interfaces modernas, escaláveis e cross-platform.
+- 🎮 Nas horas vagas, exploro o desenvolvimento de jogos 2D.
+- 🌍 Moro em Feira de Santana - BA, Brasil.
+- ✉️ Contato: [bielgomes0072@gmail.com](mailto:bielgomes0072@gmail.com)
 
-### 🛠 Skills
+### 🛠 Tech Stack & Habilidades
+
+**Web, Mobile & Desktop:**
+<br>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tauri,tailwind,materialui" alt="Front-end Stack" />
+</a>
+<br>
+<br>
+*Outras tecnologias e bibliotecas:* React Native (Expo), Ant Design, AG Grid, Figma.
+
+**Infraestrutura, DevOps & Integrações:**
+<br>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,aws,cs,dotnet" alt="DevOps and Integration Stack" />
+</a>
+<br>
+<br>
+*Outras tecnologias:* Cloudflare, SQL Server.
+
+**Game Dev (Hobby):**
+<br>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=godot" alt="Godot Engine" />
+</a>
+
+### 🔗 Redes sociais
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" />
-</a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" />
-</a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" />
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" />
+<a href="https://www.linkedin.com/in/gabriel-gomes-4aa54134b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 </p>
 
